@@ -1,0 +1,29 @@
+Passo 1 — Instalar o Ollama
+Abra o Windows PowerShell pelo menu Iniciar e execute:
+irm https://ollama.com/install.ps1 | iex
+ou
+https://ollama.com/download
+
+Passo 2 — Verificar a instalação
+ollama --version
+
+Passo 3 — Baixar o modelo de linguagem
+No Anaconda Prompt, execute:
+ollama pull qwen2.5:7b-instruct-q4_K_M
+
+Se tiver pouca RAM, opte por:
+ollama pull qwen2.5:3b
+
+Passo 4 — Testar o modelo
+Execute:
+ollama run qwen2.5:7b-instruct-q4_K_M
+Qual a diferença entre alagamento e inundação?
+
+Passo 5 — Instalar as bibliotecas Python
+No Anaconda Prompt, ative o ambiente do curso:
+conda activate hycourse2
+pip install requests pandas beautifulsoup4 trafilatura geopy tqdm ddgs
+
+Passo 6 — Verificar o uso da CPU ou GPU (opcional)
+Com o modelo carregado, execute no Anaconda Prompt:
+ollama ps

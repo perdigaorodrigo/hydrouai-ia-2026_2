@@ -1,0 +1,128 @@
+Message  | Plan: 'Previsao_LSTM' (Case_Study.p01)
+Message  | Simulation started at: 09Oct2026 02:20:46 AM
+Message  | 
+Message  | PROCESS:RasProcess
+Message  | Writing Plan GIS Data...
+Progress | 100
+Message  | Completed Writing Plan GIS Data
+Message  | Writing Geometry...
+Message  |   Terrain: Terrain
+Message  |   Model: Mesh property tables are current.
+Message  | Completed Writing Geometry
+Message  | Writing Event Conditions ...
+Message  |   Processing Initial Conditions...
+Message  |     Step 1: Computing 2D area water surface...
+Message  |     Step 1.1: Mapping cell centers...
+Message  |     Step 1.2: Mapping face mid-points...
+Message  |   Finished Processing Initial Conditions (0.951s)
+Message  | Completed Writing Event Condition Data
+Message  | 
+Message  | PROCESS:RASGeomPreprocess
+Message  | 	
+Message  | Geometric Preprocessor HEC-RAS 7.0.1 June 2026
+Progress | 0.2
+Progress | 0.3
+Message  |  
+Progress | 0.3333333
+Progress | 1
+Message  | 
+Message  | Finished Processing Geometry
+Message  | 
+Message  | Parallelization CPU Affinity ON (Performance Cores {0,2,4,6,8,10})
+Message  | PROCESS:RasUnsteady
+Message  | 
+Message  | Performing Unsteady Flow Simulation  HEC-RAS 7.0.1 June 2026
+Progress | 0.1
+Progress | 0.2
+Progress | 0.3
+Message  |  
+Progress | 2.441406E-02
+Message  | 	
+Message  | Unsteady Input Summary:
+Message  | 
+Message  | 2D Area	Cells	 Cores	Solvers	
+Message  | Model           	   36396	     6	    SWE-LIA Equation Set (local inertia)
+Progress | 0.3
+Progress | 0.4
+Progress | 0.5
+Progress | 0.6
+Message  | 
+Message  | Maximum adaptive timestep = 10:00.0    Minimum adaptive timestep = 00:01.172
+Message  | Initial adaptive timestep = 00:18.75
+Message  | 
+Progress | 3.255208E-04
+Message  | 22SEP2008 00:00:19       timestep =              9.375      (sec)
+Message  | 22SEP2008 00:00:28       timestep =              4.688      (sec)
+Message  | 22SEP2008 00:01:38       timestep =              2.344      (sec)
+Progress | 2.034505E-02
+Progress | 4.036458E-02
+Progress | 6.038411E-02
+Progress | 8.040365E-02
+Progress | 0.1004232
+Progress | 0.1204427
+Progress | 0.1404622
+Progress | 0.1604818
+Progress | 0.1805013
+Progress | 0.2005208
+Progress | 0.2205404
+Progress | 0.2405599
+Progress | 0.2605794
+Progress | 0.280599
+Progress | 0.3006185
+Progress | 0.320638
+Progress | 0.3406576
+Progress | 0.3606771
+Progress | 0.3806966
+Progress | 0.4007162
+Progress | 0.4207357
+Progress | 0.4407552
+Progress | 0.4607747
+Progress | 0.4807943
+Progress | 0.5008138
+Progress | 0.5208333
+Progress | 0.5408528
+Progress | 0.5608724
+Progress | 0.5808919
+Progress | 0.6009114
+Progress | 0.620931
+Progress | 0.6409505
+Progress | 0.66097
+Progress | 0.6809896
+Progress | 0.7010091
+Progress | 0.7210286
+Progress | 0.7410482
+Progress | 0.7610677
+Progress | 0.7810872
+Progress | 0.8011068
+Progress | 0.8211263
+Progress | 0.8411458
+Progress | 0.8611653
+Progress | 0.8811849
+Progress | 0.9012044
+Progress | 0.9212239
+Progress | 0.9412435
+Progress | 0.961263
+Progress | 0.9812825
+Message  | 
+Message  | Overall Volume Accounting Error in 1000 m^3:           0.05372
+Message  | Overall Volume Accounting Error as percentage:          0.000255
+Message  | Please review "Computational Log File" output for volume accounting details
+Message  | 
+Message  | Writing Results to DSS
+Progress | 1
+Message  | 
+Message  | Finished Unsteady Flow Simulation
+Message  | 
+Message  | 1D Post Process Skipped (simulation is all 2D)
+Message  | 
+Message  | Computations Summary
+Message  | 
+Message  | Computation Task	Time(hh:mm:ss)
+Message  | Completing Geometry, Flow and Plan	       1
+Message  | Preprocessing Geometry	<1
+Message  | Unsteady Flow Computations	    8:37
+Message  | Complete Process	    8:40
+Message  | 
+Message  | Computation Speed	Simulation/Runtime
+Message  | Unsteady Flow Computations	111x
+Message  | Complete Process	111x
