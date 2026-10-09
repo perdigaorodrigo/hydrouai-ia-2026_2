@@ -404,7 +404,7 @@ plt.show()
 # %% 16 | Escolher a data de origem da previsao de 5 horas
 # Use None para selecionar automaticamente uma origem valida na validacao.
 # Ou informe, por exemplo: DATA_ESCOLHIDA = '2020-01-15 12:00'
-DATA_ESCOLHIDA = None  # Ou '2022-01-30 15:00', se a data estiver na validacao
+DATA_ESCOLHIDA = '2022-01-30 15:00'  # Ou '2022-01-30 15:00', se a data estiver na validacao
 # A origem precisa ter previsoes validas para TODOS os cinco horizontes.
 origens_comuns = set(previsoes[1]['validacao']['origem'])
 for h in HORIZONTES[1:]:
@@ -497,7 +497,7 @@ ARQUIVO_U01 = PASTA_RAS / "Case_Study.u01"
 ARQUIVO_PRJ = PASTA_RAS / "Case_Study.prj"
 CAMINHO_EDIFICIOS = PASTA.parent / "02. Shapefiles" / "Edificios.shp"
 CAMINHO_MANCHA = PASTA_RAS / "Previsao_LSTM" / "Inundation Boundary (Max Value_0).shp"
-CAMINHO_DEPTH = PASTA_RAS / "Previsao_LSTM" / "Depth (Max).MDT.MDT_v05"
+CAMINHO_DEPTH = PASTA_RAS / "Previsao_LSTM" / "Depth (Max).MDT.MDT_v05.tif"
 PASTA_MAPAS = PASTA / "resultados_impactos"
 PASTA_MAPAS.mkdir(parents=True, exist_ok=True)
 

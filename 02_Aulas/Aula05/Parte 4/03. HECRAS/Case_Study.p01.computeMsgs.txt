@@ -1,5 +1,5 @@
 Message  | Plan: 'Previsao_LSTM' (Case_Study.p01)
-Message  | Simulation started at: 09Oct2026 02:20:46 AM
+Message  | Simulation started at: 09Oct2026 04:57:39 AM
 Message  | 
 Message  | PROCESS:RasProcess
 Message  | Writing Plan GIS Data...
@@ -14,7 +14,7 @@ Message  |   Processing Initial Conditions...
 Message  |     Step 1: Computing 2D area water surface...
 Message  |     Step 1.1: Mapping cell centers...
 Message  |     Step 1.2: Mapping face mid-points...
-Message  |   Finished Processing Initial Conditions (0.951s)
+Message  |   Finished Processing Initial Conditions (0.978s)
 Message  | Completed Writing Event Condition Data
 Message  | 
 Message  | PROCESS:RASGeomPreprocess
@@ -36,7 +36,7 @@ Progress | 0.1
 Progress | 0.2
 Progress | 0.3
 Message  |  
-Progress | 2.441406E-02
+Progress | 2.558594E-02
 Message  | 	
 Message  | Unsteady Input Summary:
 Message  | 
@@ -120,9 +120,9 @@ Message  |
 Message  | Computation Task	Time(hh:mm:ss)
 Message  | Completing Geometry, Flow and Plan	       1
 Message  | Preprocessing Geometry	<1
-Message  | Unsteady Flow Computations	    8:37
-Message  | Complete Process	    8:40
+Message  | Unsteady Flow Computations	    9:30
+Message  | Complete Process	    9:32
 Message  | 
 Message  | Computation Speed	Simulation/Runtime
-Message  | Unsteady Flow Computations	111x
-Message  | Complete Process	111x
+Message  | Unsteady Flow Computations	101x
+Message  | Complete Process	101x

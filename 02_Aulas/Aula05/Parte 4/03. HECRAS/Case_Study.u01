@@ -7,8 +7,8 @@ Prior WS Profile=22SEP2008 06:00:00
 Boundary Location=                ,                ,        ,        ,                ,Model           ,                ,BC_Montante                     ,                                ,                                
 Interval=1HOUR
 Flow Hydrograph= 17 
-       0       0       0       0       0       0       0       0       0       0
-       0       0       0       0       0       0       0
+  151.87  188.55  209.10  219.68  291.56  335.34  350.66  360.91  367.70  379.02
+  396.52  416.93  432.16  442.28  454.44  459.19  466.30
 Stage Hydrograph TW Check=0
 Flow Hydrograph Slope= 0.001 
 DSS Path=
