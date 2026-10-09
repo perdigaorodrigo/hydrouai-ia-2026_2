@@ -44,7 +44,7 @@ print('Combinações:', len(JANELAS)*len(CAMADAS_GRID)*len(HIDDEN_GRID))
 if not ARQUIVO.exists():
     raise FileNotFoundError(f'Arquivo não encontrado: {ARQUIVO}')
 df = pd.read_csv(ARQUIVO, encoding='utf-8-sig')
-df['data'] = pd.to_datetime(df['data'], format='%Y-%m-%d')
+df['data'] = pd.to_datetime(df['data'], format='%m/%d/%Y')
 df = df.sort_values('data').set_index('data')
 if df.index.has_duplicates or not df.index.equals(
         pd.date_range(df.index.min(), df.index.max(), freq='D', name='data')):
