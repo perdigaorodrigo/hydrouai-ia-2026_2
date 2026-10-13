@@ -61,6 +61,7 @@ Os materiais e exemplos destinam-se às atividades de aprendizado do curso. Resp
 
 Aula 1 (05/10/2026):
 	https://drive.google.com/file/d/1xuGr5\_TwRo7rb1P5VVTuUmAl74K1GzI\_/view?usp=sharing
+
 Aula 2 (06/10/2026):
 
 &#x09;https://drive.google.com/file/d/1FGdtcSYNFHI7qxOzKAShBCXmjNYiY9a5/view?usp=sharing
