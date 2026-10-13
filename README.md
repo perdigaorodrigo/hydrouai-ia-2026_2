@@ -65,3 +65,7 @@ Aula 5 (09/10/2026):
 
 &#x09;https://drive.google.com/file/d/1gBIN1VAL4uJW3arNDbaL8dkbx1lf9ajz/view?usp=sharing
 
+## Link do Grupo de Whatsapp Rede HydroUAI
+
+https://chat.whatsapp.com/DGZDKxtBiMV80AATDy4ZZO?s=cl&p=i&ilr=4&iam=0
+
