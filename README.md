@@ -55,7 +55,7 @@ https://forms.gle/npB27Ar4ovE3aw2v5
 
 ## Uso didático
 
-Os materiais e exemplos destinam-se às atividades de aprendizado do curso. Respeite as permissões de uso dos dados fornecidos.
+Os materiais e exemplos destinam-se às atividades de aprendizado do curso. 
 
 ## Gravações das aulas
 
