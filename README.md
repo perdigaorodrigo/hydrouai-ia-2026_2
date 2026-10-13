@@ -27,24 +27,6 @@ Este repositório reúne apresentações, dados, scripts, notebooks e estudos de
 
 https://drive.google.com/drive/folders/1-AVoTsgVhUU178LQL9XVaF3op9auaSYr?usp=drive\_link
 
-## Link das Gravações
-
-Segunda-Feira:
-
-https://drive.google.com/file/d/1xuGr5\_TwRo7rb1P5VVTuUmAl74K1GzI\_/view?usp=drive\_link
-
-https://drive.google.com/file/d/1Pg5Z8QDEtSStPpviXDCdLBbB3iDSj9dd/view?usp=sharing
-
-Terça-Feira:
-
-https://drive.google.com/file/d/1MmIIDr2Ek6h50mqXw2TXz2pFhUOQdRF6/view?usp=drivesdk
-
-https://drive.google.com/file/d/1hM1sPrNUV-0n1Te1NUogr5QgdsDDeq2e/view?usp=drivesdk
-
-Quarta-Feira:
-
-https://drive.google.com/file/d/1xuGr5\_TwRo7rb1P5VVTuUmAl74K1GzI\_/view?usp=drivesdk
-
 ## Link do Formulário de Avaliação
 
 Inicial:
